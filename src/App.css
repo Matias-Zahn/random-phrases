@@ -1,0 +1,24 @@
+.content {
+  background-position: center;
+  background-size: cover;
+
+  transition: all 0.5s ease-in-out;
+
+  overflow: hidden;
+}
+
+.content.bg1 {
+  background-image: url(/Bg1.jpg);
+}
+
+.content.bg2 {
+  background-image: url(/Bg2.jpg);
+}
+
+.content.bg3 {
+  background-image: url(/Bg3.jpg);
+}
+
+.content.bg4 {
+  background-image: url(/Bg4.jpg);
+}
