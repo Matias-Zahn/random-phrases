@@ -104,6 +104,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center;
   height: 200px;
   width: 200px;
   border-radius: 50%;
@@ -132,4 +133,5 @@
 
 .Author p {
   text-transform: uppercase;
+  margin-bottom: 1rem;
 }
